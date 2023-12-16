@@ -9,8 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@capacitor/android": "^5.5.1",
+    "@capacitor/core": "^5.5.1",
+    "@capacitor/ios": "^5.5.1",
+    "@capacitor/share": "^5.0.6",
+    "@ionic/react": "^7.6.1",
+    "ionicons": "^7.2.2",
+    "next": "14.0.4",
+    "next-transpile-modules": "^10.0.1",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.4"
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^5.5.1"
   }
 }
